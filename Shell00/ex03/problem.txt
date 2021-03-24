@@ -1,0 +1,12 @@
+EXERCISE 03: midLS
+
+Turn-in directory:      ex03/
+Files to turn in:       midLS
+Allowed functions:      None
+
+• In a midLS file, place the command line that will list all files and directories in your
+current directory (except for hidden files or any file that starts by a dot - yes, that
+includes double-dots), separated by a comma, by order of access time. Make sure
+directories’ names are followed by a slash character.
+
+HINT: RTFM!

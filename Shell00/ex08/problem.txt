@@ -1,0 +1,11 @@
+EXERCISE 08: Illusions, not tricks,
+Michael...
+
+Turn-in directory: ex08/
+Files to turn in: ft_magic
+Allowed functions: None
+
+• Create a magic file called ft_magic that will be formatted appropriately to detect
+files of 42 file type, built with a "42" string at the 42nd byte.
+
+HINT: man file
