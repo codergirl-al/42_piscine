@@ -1,0 +1,8 @@
+EXERCISE 06: Skip
+
+Turn-in directory:      ex06/
+Files to turn in:       skip.sh
+Allowed functions:      None
+
+
+• Write a command line that displays every other line for the command ls -l, starting from the first line

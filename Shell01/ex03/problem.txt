@@ -1,0 +1,14 @@
+EXERCISE 03: count_files
+
+Turn-in directory:      ex03/
+Files to turn in:       count_files.sh
+Allowed functions:      None
+
+• Write a command line that counts and displays the number of regular files and
+directories in the current directory and all its sub-directories. It should include ".",
+the starting directory.
+• Example of output :
+$>./count_files.sh | cat -e
+42$
+$>
+
