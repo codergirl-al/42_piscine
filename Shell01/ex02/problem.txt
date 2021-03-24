@@ -1,0 +1,17 @@
+EXERCISE 02: find_sh
+
+Turn-in directory:      ex02/
+Files to turn in:       find_sh.sh
+Allowed functions:      None
+
+• Write a command line that searches for all file names that end with ".sh" (without
+quotation marks) in the current directory and all its sub-directories. It should
+display only the file names without the .sh.
+• Example of output :
+$>./find_sh.sh | cat -e
+find_sh$
+file1$
+file2$
+file3$
+$>
+
