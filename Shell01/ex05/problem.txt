@@ -1,0 +1,14 @@
+EXERCISE 05: Can you create it?
+
+Turn-in directory:      ex05/
+Files to turn in:       "\?$*’MaRViN’*$?\"
+Allowed functions:      None
+
+
+• Create a file containing only "42", and NOTHING else.
+• Its name will be :
+"\?$*'MaRViN'*$?\"
+• Example :
+$>ls -lRa *MaRV* | cat -e
+-rw---xr-- 1 75355 32015 2 Oct 2 12:21 "\?$*'MaRViN'*$?\"$
+$

@@ -1,0 +1,19 @@
+EXERCISE 01: print_groups
+
+Turn-in directory:      ex01/
+Files to turn in:       print_groups.sh
+Allowed functions:      None
+
+• Write a command line that will display the list of groups for which the login,
+contained in the environment variable FT_USER , is a member. Separated by
+commas without spaces.
+• Examples :
+◦ for FT_USER=student, the result is "student,:,student,staff,main,basecamp,fortytwo"
+(without quotation marks)
+$>./print_groups.sh
+student,:,student,staff,main,basecamp,fortytwo$>
+◦ for FT_USER=staff, the result is "staff,:,staff,god,main,bocal" (without quotation marks)
+$>./print_groups.sh
+staff,:,staff,god,main,bocal$>
+
+HINT: man id
