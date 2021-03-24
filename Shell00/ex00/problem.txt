@@ -1,0 +1,12 @@
+EXERCISE 00: z
+
+Turn-in directory:      ex00/
+Files to turn in:       Z
+Allowed functions:      None
+
+• Create a file called z that returns "Z", followed by a new line, whenever the command
+cat is used on it.
+
+?>cat z
+Z
+?>

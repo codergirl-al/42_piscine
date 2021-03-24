@@ -1,0 +1,12 @@
+EXERCISE 07: clean
+
+Turn-in directory:      ec07/
+Allowed functions: None
+
+• In a file called clean place the command line that will search for all files - in the
+current directory as well as in its sub-directories - with a name ending by ~, or a
+name that start and end by #
+• The command line will show and erase all files found.
+• Only one command is allowed: no ’;’ or ’&&’ or other shenanigans.
+
+HINT: man find
